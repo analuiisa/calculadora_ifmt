@@ -142,7 +142,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#f555',
+    backgroundColor: '#836FFF',
     alignItems: 'center',
     justifyContent: 'center',
   },
@@ -170,7 +170,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
     borderRadius: 10,
-    backgroundColor: '#f555',
+    backgroundColor: '#836FFF',
   },
 
   botao_num_0: {
@@ -180,7 +180,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
     borderRadius: 10,
-    backgroundColor: '#f555',
+    backgroundColor: '#836FFF',
   },
   
   botao_nummais: {
@@ -190,7 +190,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
     borderRadius: 10,
-    backgroundColor: '#f55',
+    backgroundColor: '#836FFF',
   },
   botao_numigual: {
     borderWidth: 1,
@@ -199,7 +199,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
     borderRadius: 10,
-    backgroundColor: '#f55',
+    backgroundColor: '#836FFF',
   },
 
   texto_botao: {
